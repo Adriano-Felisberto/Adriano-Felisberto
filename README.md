@@ -39,7 +39,8 @@ Busco oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa 
 ---
 
 ## 📫 Contato
-- 📸 Instagram: [@adriano_felisberto456](https://www.instagram.com/adriano_felisberto456)
+- 💼 LinkedIn: https://www.linkedin.com/in/adriano-felisberto-dos-santos-049557369/
+- 📸 Instagram: https://www.instagram.com/adriano_felisberto456
 
 ---
 ⭐ Sinta-se à vontade para explorar meus repositórios!
