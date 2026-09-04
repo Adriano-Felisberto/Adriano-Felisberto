@@ -11,7 +11,7 @@
 - **Java**
 - **HTML & CSS**
 - **Node.js** 
-- Git & GitHub
+- **Git & GitHub**
 
 ---
 
