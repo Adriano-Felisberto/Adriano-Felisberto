@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Adriano Felisberto
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Universidade Estadudal da Paraíba (UEPB)**  
-💻 Desenvolvedor em formação, com foco em **lógica de programação** e **desenvolvimento web**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Universidade Estadudal da Paraíba (UEPB)**  💻 Desenvolvedor em formação, com foco em **lógica de programação** e **desenvolvimento web**
 
 ---
 
